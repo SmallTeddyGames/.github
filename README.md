@@ -13,8 +13,8 @@
   <img
     width="278"
     alt="github-readme-streak-stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=game-develop-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false
-  /">
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=game-develop-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+  />
 </a>
 <a href="https://github.com/SmallTeddy/electron-game-template">
   <img
